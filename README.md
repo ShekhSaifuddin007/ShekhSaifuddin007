@@ -11,6 +11,5 @@
 
 📈 **My github stats:**
 
- <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=shekhsaifuddin007&include_all_commits=true&show_icons=true&theme=gotham" alt="ShekhSaifuddin007" />
- </p>
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" /> |
+| ----------------- | ----------------- |
