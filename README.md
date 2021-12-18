@@ -9,16 +9,6 @@
 - 📫 How to reach me: https://shekhsaifuddin007.github.io/
 
 
-📊 **Week Summery:**
-<!--START_SECTION:waka-->
-```text
-Vue                                     3 hrs 15 mins                        ███████████████▒░░░░░░░░░                                   30 % 
-PHP                                     4 hr 30 mins                         █████▒░░░░░░░░░░░░░░░░░░░                                   40 % 
-JavaScript                              3 hr 30 mins                         ████░░░░░░░░░░░░░░░░░░░░░                                   30 % 
-```
-<!--END_SECTION:waka-->
-
-
 📈 **My github stats:**
 
  <p align="center"> 
