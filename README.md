@@ -21,13 +21,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-📈 **My github stats:**
+📈 **My github stats and Streak Stats:**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Shekh Saifuddin's github stats" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shekhsaifuddin007&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats) |
 | ----------------- | ----------------- |
 
 
-**My Streak Stats**
+**Contribution In Graph and Most uses Language**
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shekhsaifuddin007&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats) |
-| ----------------- |
+| <img align="center" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shekhsaifuddin007&bg_color=1F222E&color=29A788&line=F85D7F&point=FFFFFF&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" />
+| - | - |
