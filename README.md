@@ -27,7 +27,12 @@
 | ----------------- | ----------------- |
 
 
-**Contribution In Graph and Most uses Language**
+**Most uses Language:**
 
-| <img align="center" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shekhsaifuddin007&bg_color=1F222E&color=29A788&line=F85D7F&point=FFFFFF&hide_border=true"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" />
-| - | - |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" /> |
+| ----------------- |
+
+📈 **Contribution In Graph:**
+
+| <img align="center" src="https://activity-graph.herokuapp.com/graph/?username=shekhsaifuddin007&bg_color=1F222E&color=29A788&line=F85D7F&point=FFFFFF&hide_border=true"> |
+| ----------------- |
