@@ -23,16 +23,11 @@
 
 📈 **My github stats and Streak Stats:**
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&count_private=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Shekh Saifuddin's github stats" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shekhsaifuddin007&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats) |
-| ----------------- | ----------------- |
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shekhsaifuddin007&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
+| ----------------- |
 
 
 **Most uses Language:**
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" /> |
-| ----------------- |
-
-📈 **Contribution In Graph:**
-
-| <img align="center" src="https://activity-graph.herokuapp.com/graph/?username=shekhsaifuddin007&bg_color=1F222E&color=29A788&line=F85D7F&point=FFFFFF&hide_border=true"> |
 | ----------------- |
