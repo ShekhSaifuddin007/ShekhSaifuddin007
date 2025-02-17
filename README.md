@@ -21,13 +21,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
 
-📈 **My github stats and Streak Stats:**
+## 🚀 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shekhsaifuddin007&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
-| ----------------- |
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
 
+## 📊 GitHub Contribution Graph
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical)
 
-**Most uses Language:**
+## 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&theme=gotham&hide_border=true" /> |
+## 📌 Custom Badges
+![Followers](https://img.shields.io/github/followers/your-github-username?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/your-github-username?label=Profile%20Stars&style=social)
 | ----------------- |
