@@ -22,16 +22,16 @@
 
 
 ## 🚀 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&theme=redical&count_private=true&include_all_commits=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShekhSaifuddin007&theme=redical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShekhSaifuddin007&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 GitHub Contribution Graph
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekhSaifuddin007&theme=redical)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekhSaifuddin007&theme=radical)
 
 ## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&layout=compact&theme=redical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShekhSaifuddin007&layout=compact&theme=radical)
 
 ## 📌 Custom Badges
 ![Followers](https://img.shields.io/github/followers/ShekhSaifuddin007?label=Followers&style=social)
