@@ -25,7 +25,7 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShekhSaifuddin007&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShekhSaifuddin007&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShekhSaifuddin007&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 GitHub Contribution Graph
 ![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShekhSaifuddin007&theme=radical)
